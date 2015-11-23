@@ -1,6 +1,8 @@
 
 **Name:** Someone
 
-**Other Infomation:** Yes
+**Other Information:** Yes
+
+**Place:**  Somewhere
 
 ** Color: **  green
